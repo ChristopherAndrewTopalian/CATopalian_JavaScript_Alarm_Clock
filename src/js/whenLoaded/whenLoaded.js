@@ -6,7 +6,7 @@ function whenLoaded()
 
     updateClock('clock');
 
-    let timeUpdate = setInterval(function()
+    timeUpdate = setInterval(function()
     {
         updateClock('clock');
     }, 1000);

@@ -1,5 +1,7 @@
 // worldVariables.js
 
+let timeUpdate;
+
 // stores the time the user wants the alarm to go off (for example 08:00 AM)
 let alarmTime;
 

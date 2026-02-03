@@ -3,6 +3,10 @@ A JavaScript app that shows the time in 12 hour AM/PM format and allows the user
 
 ---
 
+Video: https://www.youtube.com/watch?v=aeKj-Q78zLk
+
+Use App: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Alarm_Clock/CATopalian_JavaScript_Alarm_Clock.html
+
 ![screenshot_001](src/media/textures/screenshots/001.PNG)  
 
 ---
